@@ -1,0 +1,15 @@
+{
+  "name": "ielts-reading-cbt-studio",
+  "version": "1.0.0",
+  "description": "IELTS Academic Reading Computer-Delivered Practice & AI OCR Explanation Studio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@google/genai": "^2.30.0",
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.3"
+  }
+}
